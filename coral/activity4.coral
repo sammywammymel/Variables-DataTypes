@@ -1,0 +1,14 @@
+integer yearlyLitters
+integer annualMice
+integer litterSize
+litterSize = 3
+yearlyLitters = 5
+Put "One female mouse may give birth to " to output
+annualMice = litterSize * yearlyLitters
+Put annualMice to output
+Put " to " to output
+litterSize = 14
+yearlyLitters = 10
+annualMice = litterSize * yearlyLitters
+Put annualMice to ou    tput
+Put " mice per year" to output

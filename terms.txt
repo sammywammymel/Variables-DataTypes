@@ -1,0 +1,25 @@
+Variable - a named box. Used to hold a value (data).
+
+Assignment - a statement that assigns a variable with a value
+
+Statement - an assignment’s expression where the left side is a variable and the right side is a value.
+
+Expression - a number, value, or a calculation
+
+Integer – a variable type that can hold whole number values (ex. 1, 99, 0 or -25)
+
+Float - a non whole number or a floating-point number, which is a real number.
+
+String Literal - A string of character (ex. “Hello”, or “The forecast for today is sunny.”)
+
+Boolean - A quantity that has only two values, true or false
+
+Identifier - A name created by a programmer for an item like a variable or function.
+
+camelCase - a way to type where you abut multiple words, capitalizing each word except the first (ex. num_apples)
+
+Reserved Words - a word that is part of the language (ex. Integer, Get, Put)
+
+Naming - a set of style guidelines defined by a company, team, teacher, etc.
+
+Convention - a set of style guidelines defined by a company, team, teacher, etc.
